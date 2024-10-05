@@ -1,7 +1,7 @@
 1. Keyword & Hashtag Scraping
 Scrape TikTok posts based on the following keywords:
-    beautiful destinations
-    places to visit
+    beautiful destinations,
+    places to visit, places to travel, travel hacks, beautiful destinations, places that don't feel real
     places to travel
     places that don't feel real
     travel hacks
