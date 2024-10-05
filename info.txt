@@ -1,0 +1,27 @@
+1. Keyword & Hashtag Scraping
+Scrape TikTok posts based on the following keywords:
+    beautiful destinations
+    places to visit
+    places to travel
+    places that don't feel real
+    travel hacks
+Scrape TikTok posts based on the following hashtags:
+#traveltok, #wanderlust, #backpackingadventures, #luxurytravel, #hiddengems, #solotravel,
+ #roadtripvibes, #travelhacks, #foodietravel, #sustainabletravel
+2. Extract and save the following data from each TikTok post:
+    video_url
+    video_caption
+    author_username
+3. Collect and save Author Information
+For each post found during the keyword & hashtag scraping, collect the following Author's information:
+    username
+    follower_count
+    following_count
+    like_count
+4. Identify and save Influencers Information
+Analyze the collected data to identify top influencers who meet the following criteria:
+    Have at least 100k followers.
+    Have received over 1 million likes.
+5. Robust Data Storage
+    Data storage solutions can vary from simple file storage (e.g., CSV, JSON) to more complex database management systems (e.g., SQL, NoSQL).
+    Flexibility in choosing the storage method allows the developer to design the schema based on their own preferences and project scale.
